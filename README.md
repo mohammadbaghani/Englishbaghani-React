@@ -4,7 +4,7 @@
 آخرین آپلود : 16 آذر سال 1403
 <br>
 </br>
-پروژه به صورت لایو اینجا : https://englisho.liara.run
+لایو پروژه اینجا : https://englisho.liara.run
 
 
 <br>
