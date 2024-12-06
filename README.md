@@ -11,8 +11,7 @@
 
 <br>
 </br>
-Educational website that I developed by React JS
-
+Educational website using React JS
 <br>
 </br>
 Live of project is here : https://englisho.liara.run
