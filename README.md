@@ -10,9 +10,5 @@
 Educational website using React JS
 <br>
 </br>
-Live of project is here : https://englisho.liara.run
-<br>
-</br>
-                                                                                                           تصویری از این پروژه  
-
+Live of project is here : https://englisho.liara.run                                                                                           
 ![projext image](https://github.com/mohammadbaghani/Englisho-React/blob/master/Screenshot_2025_01_08-9.png)
