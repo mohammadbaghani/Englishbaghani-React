@@ -14,4 +14,4 @@ Live of project is here : https://englisho.liara.run
 </br>
 ![alt text](https://github.com/mohammadbaghani/Shopy-NextJS/blob/main/Screenshot_2025_01_08-5.png)
 
-![alt text](https://github.com/mohammadbaghani/Shopy-NextJS/blob/main/Screenshot_2025_01_08-5.png)
+![alt text](https://github.com/mohammadbaghani/Shopy-NextJS/blob/main/Screenshot_2025_01_08-9.png)
