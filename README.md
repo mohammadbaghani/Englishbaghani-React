@@ -4,7 +4,7 @@
 
 کتابخانه هایی که استفاده کردم :
 MUI Material ,
-AOS animation ,
+AOS ,
 React-Paralex-Tilt ,
 React-particles ,
 React-Icons 
