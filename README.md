@@ -9,7 +9,7 @@ MUI Material ,
 AOS animation ,
 React-Paralex-Tilt ,
 React-particles ,
-React-Icons ,
+React-Icons 
 <br>
 </br>
 Educational website using React JS
