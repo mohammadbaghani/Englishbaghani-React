@@ -2,7 +2,14 @@
 <br>
 </br>لایو پروژه اینجا : https://englisho.liara.run
 
+کتابخانه هایی که استفاده کردم :
 
+
+MUI Material
+AOS animation
+React-Paralex-Tilt
+React-particles
+React-Icons
 <br>
 </br>
 Educational website using React JS
