@@ -2,7 +2,7 @@
 <br>
 </br>لایو پروژه اینجا : https://englisho.liara.run
 
-کتابخانه هایی که استفاده کردم :
+کتابخانه های استفاده شده :
 MUI Material ,
 AOS ,
 React-Paralex-Tilt ,
