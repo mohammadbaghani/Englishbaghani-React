@@ -2,7 +2,7 @@
 <br>
 </br>لایو پروژه اینجا ⭐ https://englisho.liara.run ⭐
 
-کتابخانه های استفاده شده :
+کتابخانه هایی که استفاده کردم :
 
 MUI Material
 AOS ,
