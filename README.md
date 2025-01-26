@@ -4,7 +4,7 @@
 
 کتابخانه هایی که استفاده کردم :
 
-MUI Material
+MUI Material ,
 AOS ,
 React-Paralex-Tilt ,
 React-particles ,
