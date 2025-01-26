@@ -3,7 +3,6 @@
 </br>لایو پروژه اینجا ⭐ https://englisho.liara.run ⭐
 
 کتابخانه های استفاده شده :
-
 MUI Materia
 AOS ,
 React-Paralex-Tilt ,
