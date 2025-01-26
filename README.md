@@ -5,7 +5,7 @@
 کتابخانه های استفاده شده :
 <br>
 </br>
-MUI Material ,
+MUI Material
 AOS ,
 React-Paralex-Tilt ,
 <br>
